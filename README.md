@@ -8,10 +8,10 @@ This is a simple web application that calculates a user's Body Mass Index (BMI) 
 ## How to use:
 
 1. Clone or download the project files.
-2. Install the required dependencies by running npm install.
-3. Start the server by running node app.js.
-4. Open your web browser and go to http://localhost:2999.
-5. Enter your height and weight, then click on the "Calculate BMI" button.
+2. Install the required dependencies by running `npm install`.
+3. Start the server by running node `app.js`.
+4. Open your web browser and go to `http://localhost:2999`.
+5. Enter your height and weight, then click on the `Calculate BMI` button.
 6. The calculated BMI value will be displayed on the screen.
 
 ## Technologies used
